@@ -1,4 +1,4 @@
-# 🧠 Flash Card — Interactive Study Deck (Bootstrap Edition)
+# Flash Card — Interactive Study Deck (Bootstrap Edition)
 
 ![Preview Screenshot Placeholder](../images/02-screenshot.png)
 

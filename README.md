@@ -4,6 +4,9 @@
 ![topic-badge](https://img.shields.io/badge/Topic-JavaScript_DOM-yellow?style=for-the-badge)
 ![goal-badge](https://img.shields.io/badge/Goal-Build_On_Top-green?style=for-the-badge)
 
+#Solved:
+<a href="https://kenvermillionjr.github.io/4-1-Flash-Cards/" target="_blank">View Solution</a>
+
 ---
 Work with a partner to build an interactive flashcard app using **JavaScript** and **Bootstrap 5**.
 

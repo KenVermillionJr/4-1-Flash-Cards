@@ -1,7 +1,5 @@
 # Flash Card — Interactive Study Deck (Bootstrap Edition)
 
-![Preview Screenshot Placeholder](../images/02-screenshot.png)
-
 ![difficulty-badge](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge)
 ![topic-badge](https://img.shields.io/badge/Topic-JavaScript_DOM-yellow?style=for-the-badge)
 ![goal-badge](https://img.shields.io/badge/Goal-Build_On_Top-green?style=for-the-badge)
